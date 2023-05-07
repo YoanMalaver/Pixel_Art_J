@@ -26,3 +26,7 @@
 .fadeIn {
   animation-name: fadeIn;
 }
+
+body {
+  background-color: #3f3f46;
+}
